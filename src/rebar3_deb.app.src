@@ -1,6 +1,6 @@
 {application, rebar3_deb,
- [{description, "A rebar plugin"},
-  {vsn, "0.1.0"},
+ [{description, "A rebar plugin to package releases as debian package"},
+  {vsn, "0.1.1"},
   {registered, []},
   {applications,
    [kernel,
